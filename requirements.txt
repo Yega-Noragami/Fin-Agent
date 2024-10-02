@@ -1,0 +1,10 @@
+pyautogen 
+ipython
+chromadb
+markdownify
+pypdf
+langchain
+langchain_community
+PyMuPDF
+google-search-results
+pymemgpt
